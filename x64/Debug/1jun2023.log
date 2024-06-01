@@ -1,0 +1,29 @@
+﻿  Putovanje.cpp
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Avion.h(24,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Putovanje.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Avion.h(28,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Putovanje.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Autobus.h(26,69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Putovanje.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Autobus.h(30,113): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Putovanje.cpp')
+  
+  main.cpp
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Avion.h(24,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Avion.h(28,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Autobus.h(26,69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\Autobus.h(30,113): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Djokye\source\repos\1jun2023\1jun2023\main.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  1jun2023.vcxproj -> C:\Users\Djokye\source\repos\1jun2023\x64\Debug\1jun2023.exe
